@@ -1,0 +1,19 @@
+.tetherone-market-first-column-En {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.tetherone-market-first-column-En img {
+  position: absolute;
+  left: -55px;
+  width: 35px;
+}
+
+
+@media screen and (width<=576px) {
+  .tetherone-market-first-column-En img {
+    display: none;
+  }
+}
