@@ -165,7 +165,7 @@ function Navbar({ setOpenMenu, setLanguage, setTitle }) {
         </div>
         <div className="flex justify-center items-center gap-1">
           <a
-            href="https://panel.bitnal.ir/signin/"
+            href="https://panel.tetherone.net/admin/signin/"
             className="flex gap-2 items-center justify-center"
           >
             <UserIcon className="w-[20px]" />
