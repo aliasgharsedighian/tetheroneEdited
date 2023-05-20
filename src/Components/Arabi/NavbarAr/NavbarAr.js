@@ -165,7 +165,7 @@ function NavbarAr({ setOpenMenu, setLanguage, setTitle }) {
         <div className="flex justify-center items-center gap-1">
           <a
             className="flex gap-2 items-center justify-center"
-            href="https://panel.tetherone.net/admin/signin/"
+            href="https://panel.tetherone.net/signin/"
           >
             <UserIcon className="w-[20px]" />
             <p>إنشاء حساب / تسجيل الدخول</p>
